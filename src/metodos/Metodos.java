@@ -1,3 +1,5 @@
+package metodos;
+
 public class Metodos {
     public void mensaje(){System.out.println("VACUNACIÓN COVID-19 EN ESPAÑA:\n1) Añadir persona.\n2) Añadir vacuna.\n3) Listado de personas.\n4) Buscar persona.\n5) Información vacunas.\n6) Realizar cambios.\n7) Salir.");}
     public void mensaje1(){System.out.println("**** CAMBIOS REALIZADOS ****");}
